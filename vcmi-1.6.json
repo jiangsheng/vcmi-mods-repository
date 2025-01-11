@@ -978,4 +978,9 @@
 		"download" : "https://github.com/vcmi-mods/ai-disable-speedups/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.002
 	}
+	"no-diplomacy" : {
+		"mod" : "https://raw.githubusercontent.com/jiangsheng/no-diplomacy/refs/heads/main/mod.json",
+		"download" : "https://github.com/jiangsheng/no-diplomacy/archive/refs/heads/main.zip",
+		"downloadSize" : 94.7
+	}
 }
