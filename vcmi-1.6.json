@@ -128,7 +128,7 @@
 	"andruids-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/andruids-expansion/mod.json",
 		"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 6.727
+		"downloadSize" : 6.729
 	},
 	"german-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.6/mod.json",
@@ -251,11 +251,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumMercenary.png"
 		],
 		"downloadSize" : 3.652
-	},
-	"magic-fader" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.6/mod.json",
-		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.094
 	},
 	"grove" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.6/Grove/mod.json",
@@ -501,7 +496,7 @@
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/an-expansion/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 6.725
+		"downloadSize" : 6.779
 	},
 	"refugee-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/refugee-town/mod.json",
@@ -982,5 +977,14 @@
 		"mod" : "https://raw.githubusercontent.com/jiangsheng/no-diplomacy/refs/heads/main/mod.json",
 		"download" : "https://github.com/jiangsheng/no-diplomacy/archive/refs/heads/main.zip",
 		"downloadSize" : 94.7
+	},
+	"new-skills-pack" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/new-skills-pack/mod.json",
+		"download" : "https://github.com/vcmi-mods/new-skills-pack/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Basic Skills.bmp",
+			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Heroes.bmp"
+		],
+		"downloadSize" : 2.304
 	}
 }
