@@ -976,7 +976,7 @@
 	"no-diplomacy" : {
 		"mod" : "https://raw.githubusercontent.com/jiangsheng/no-diplomacy/refs/heads/main/mod.json",
 		"download" : "https://github.com/jiangsheng/no-diplomacy/archive/refs/heads/main.zip",
-		"downloadSize" : 94.7
+		"downloadSize" : 0.2
 	},
 	"new-skills-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/new-skills-pack/mod.json",
